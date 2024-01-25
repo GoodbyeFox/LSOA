@@ -242,84 +242,84 @@ o2.xApplication.systemconfig.LP = {
         "scaleConfigInfo": "ອະນຸຍາດໃຫ້ຜູ້ໃຊ້ປັບແຕ່ງອັດຕາສ່ວນການຊູມຂອງຈໍສະແດງຜົນ",
 
         "defaultMenuInfo": "ຫຼັງຈາກບັນທຶກເປັນການຕັ້ງຄ່າເມນູຫຼັກ，ຜູ້ໃຊ້ທີ່ບໍ່ໄດ້ຕັ້ງຄ່າເມນູສ່ວນບຸກຄົນ，ເມນູຈະສະແດງຕາມການຕັ້ງຄ່ານີ້。",
-        "forceMenuInfo": "ຫຼັງຈາກບັນທຶກເປັນເມນູບັງຄັບ，所有的用户都会按此设置展现菜单，个性化设置将会失效。",
-        "userMenuInfo": "所有用户的个性化菜单设置将被清除，以默认方式展现菜单。",
+        "forceMenuInfo": "ຫຼັງຈາກບັນທຶກເປັນເມນູບັງຄັບ，ຜູ້ໃຊ້ທັງໝົດຈະສະແດງເມນູຕາມການຕັ້ງຄ່ານີ້，ການຕັ້ງຄ່າສ່ວວນບຸກຄົນຈະບໍ່ເຮັດວຽກອີກຕໍ່ໄປ。",
+        "userMenuInfo": "ການຕັ້ງຄ່າເມນູສ່ວນຕົວຂອງຜູ້ໃຊ້ທັງໝົດຈະຖືກລຶບລ້າງ，ສະແດງເມນູໃນຮູບແບບເລີ່ມຕົ້ນ。",
 
-        "clearDefaultMenuDataTitle": "清除默认菜单设置",
-        "clearDefaultMenuData": "您是否确认清除默认菜单设置？",
-        "clearDefaultMenuDataSuccess": "默认菜单设置已清除",
-        "clearForceMenuDataTitle": "清除强制菜单设置",
-        "clearForceMenuData": "您是否确认清除强制菜单设置？",
-        "clearForceMenuDataSuccess": "强制菜单设置已清除",
+        "clearDefaultMenuDataTitle": "ລົບລ້າງການຕັ້ງຄ່າເມນູຫຼັກ",
+        "clearDefaultMenuData": "ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລົບການຕັ້ງຄ່າເມນູຫຼັກ？",
+        "clearDefaultMenuDataSuccess": "ລົບລ້າງການຕັ້ງຄ່າເມນູຫຼັກ",
+        "clearForceMenuDataTitle": "ລົບການຕັ້ງຄ່າເມນູບັງຄັບ",
+        "clearForceMenuData": "ເຈົ້າແນ່ໃຈບໍ່ວ່າຕ້ອງການລົບການຕັ້ງຄ່າເມນູບັງຄັບ？",
+        "clearForceMenuDataSuccess": "ລົບລ້າງເມນູບັງຄັບແລ້ວ",
 
-        "clearUserMenuData": "清除用户个性化菜单设置",
-        "clearUserMenuDataSuccess": "用户个性化菜单设置已清除",
-        "clearUserMenuDataConfirm": "您确定要清除所有用户的个性化菜单设置",
+        "clearUserMenuData": "ລົບລ້າງການຕັ້ງຄ່າເມນູສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້",
+        "clearUserMenuDataSuccess": "ລົບລ້າງການຕັ້ງຄ່າສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້ແລ້ວ",
+        "clearUserMenuDataConfirm": "ເຈົ້າແນ່ໃຈບໍ່ວ່າຕ້ອງການລົບລ້າງການຕັ້ງຄ່າເມນູສ່ວວນບຸກຄົນຂອງຜູ້ໃຊ້ທັງໝົດ",
 
-        "saveDefaultMenuDataSuccess": "默认菜单设置保存成功",
-        "saveForceMenuDataSuccess": "强制菜单设置保存成功",
+        "saveDefaultMenuDataSuccess": "ບັນທຶກການຕັ້ງຄ່າເມນູຫຼັກສຳເລັດ",
+        "saveForceMenuDataSuccess": "ບັນທຶກການຕັ້ງຄ່າເມນູບັງຄັບສຳເລັດ",
 
-        "defaultMenu": "默认菜单配置",
-        "forceMenu": "强制菜单配置",
-        "userMenu": "用户个性化菜单配置",
+        "defaultMenu": "ຕັ້ງຄ່າເມນູຫຼັກ",
+        "forceMenu": "ຕັ້ງຄ່າເມນຸບັງຄັບ",
+        "userMenu": "ຕັ້ງຄ່າເມນູສ່ວນບຸຄົນ",
 
-        "saveMenu": "保存配置",
-        "clearMenu": "清除配置",
-        "loadMenu": "载入配置",
-        "clearUserMenu": "清除配置",
+        "saveMenu": "ບັນທຶກການຕັ້ງຄ່າ",
+        "clearMenu": "ລົບລ້າງການຕັ້ງຄ່າ",
+        "loadMenu": "3ລດການຕັ້ງຄ່າ",
+        "clearUserMenu": "ລົບລ້າງການຕັ້ງຄ່າ",
 
         "menu": {
-            "application": "应用",
-            "process": "流程",
-            "cms": "信息",
-            "query": "数据",
+            "application": "ແອັບ",
+            "process": "ຂະບວນການ",
+            "cms": "ຂໍ້ຄວາມ",
+            "query": "ຂໍ້ມູນ",
 
-            "defaultMenu": "恢复默认菜单状态"
+            "defaultMenu": "ກູ້ສະຖານະເມນູຫຼັກ"
         },
-        "deleteLink": "删除常用应用快捷方式"
+        "deleteLink": "ລົບທາງລັດແອັບທີ່ໃຊ້ເລື່ອຍໆ"
     },
     "_passwordConfig": {
-        "personPassword": "用户密码设置",
-        "adminPassword": "管理员密码",
-        "saveSuccess": "配置保存成功",
-        "passwordScript": "密码脚本",
+        "personPassword": "ຕັ້ງຄ່າລະຫັດຜູ້ໃຊ້",
+        "adminPassword": "ລະຫັດຄົນຈັດການ",
+        "saveSuccess": "ບັນທຶກການຕັ້ງຄ່າສຳເລັດ",
+        "passwordScript": "ລະຫັດ Script",
 
-        "newPersonPassword": "新建用户的初始密码",
-        "newPersonPasswordInfo": "创建新建用户时，会按以下设定生成用户初始密码，用户可登录系统后自行修改",
-        "initialPassword": "用户初始密码",
-        "initialPasswordText": "输入初始密码",
+        "newPersonPassword": "ລະຫັດຂອງຜູ້ໃຊ້ໃໝ່",
+        "newPersonPasswordInfo": "ເມື່ອສ້າງຜູ້ໃຊ້ໃໝ່，ລະຫັດຜ່ານຂອງຜູ້ໃຊ້ຈະຖືກສ້າງຂື້ນຕາມການຕັ້ງຄ່າຕໍ່ໄປນີ້，ຜູ້ໃຊ້ສາມາດແກ້ໄຂດ້ວຍຕົນເອງຫຼັງຈາກເຂົ້າສູ່ລະບົບ.",
+        "initialPassword": "ລະຫັດຂອງຜູ້ໃຊ້",
+        "initialPasswordText": "ປ້ອນລະຫັດຜ່ານ",
         "initialPasswordTypeOptions": {
-            "mobile": "手机号码后六位",
-            "unique": "唯一编码后六位",
-            "employee": "人员工号",
-            "pinyin": "人员名称全拼",
-            "text": "固定口令",
-            'script': "通过脚本自定义初始密码"
+            "mobile": "6ຕົວທ້າຍຂອງເບີໂທລະສັບ",
+            "unique": "ລະຫັດສະເພາະທາງຫຼັງ6ຕົວ",
+            "employee": "ID ພະນັກງານ",
+            "pinyin": "ຊື່ສະກົດພະນັກງານ",
+            "text": "ລະຫັດຄົງທີ່",
+            'script': "ປັບແຕ່ງລະຫັດຜ່ານຜ່ານscript"
         },
         "initialPasswordType": {
             "mobileScript": "return person.getMobile().slice(-6)",
             "uniqueScript": "return person.getUnique().slice(-6)",
             "employeeScript": "return person.getEmployee()",
             "pinyinScript": "return person.getPinyin()",
-            "textInfo": "在下面的输入框中输入的密码，将作为新创建用户的初始密码。",
-            'scriptInfo': "在下面的编辑器中输入脚本，返回一个字符串值，作为新创建用户的初始密码。您可以使用person对象获取人员相关信息。如将人员姓名全拼作为初始密码，可使用脚本：return person.getPinyin()"
+            "textInfo": "ປ້ອນລະຫັດຜ່ານເຂົ້າໃນປ່ອງດ້ານລຸ່ມ，ຈະຖືກໃຊ້ເປັນລະຫັດຜ່ານສໍາລັບຜູ້ໃຊ້ທີ່ສ້າງໃຫມ່。",
+            'scriptInfo': "ໃຊ້scriptເປັນຕົວແກ້ໄຂ，ສົ່ງກັບຄ່າstring，ໃຊ້ເປັນລະຫັດຜ່ານສໍາລັບຜູ້ໃຊ້ທີ່ສ້າງໃຫມ。ທ່ານສາມາດນໍາໃຊ້ບຸກຄົນຫຼັກເພື່ອໃຫ້ໄດ້ຂໍ້ມູນທີ່ກ່ຽວຂ້ອງກັບບຸກຄົນ。ເຊັ່ນ,ໃຊ້ການສະກົດຄໍາເຕັມຂອງຊື່ຂອງບຸກຄົນເປັນລະຫັດຜ່ານ，ສາມາດໃຊ້script：return person.getPinyin()"
         },
 
-        "passwordPeriod": "密码过期天数",
-        "passwordPeriodInfo": "超过此设定天数未修改密码的用户，登录后会强制要求修改密码，否则无法进入系统。设置为 0 表示密码永不过期",
+        "passwordPeriod": "ວັນໝົດອາຍຸລະຫັດຜ່ານ",
+        "passwordPeriodInfo": "ຜູ້ໃຊ້ທີ່ບໍ່ໄດ້ປ່ຽນລະຫັດຜ່ານຫຼາຍກວ່າຈໍານວນມື້ທີ່ກໍານົດໄວ້，ຫຼັງຈາກເຂົ້າສູ່ລະບົບ, ທ່ານຈະຖືກບັງຄັບໃຫ້ປ່ຽນລະຫັດຜ່ານຂອງທ່ານ，ຖ້າບໍ່ດັ່ງນັ້ນທ່ານບໍ່ສາມາດເຂົ້າໄປໃນລະບົບໄດ້。ຕັ້ງເປັນ 0 ຫມາຍຄວາມວ່າລະຫັດຜ່ານບໍ່ເຄີຍຫມົດອາຍຸ",
 
-        "passwordRegex": "密码复杂度",
-        "passwordRegexInfo": "设置用户密码复杂度要求",
+        "passwordRegex": "ຄວາມຊັບຊ້ອນຂອງລະຫັດຜ່ານ",
+        "passwordRegexInfo": "ກຳນົດຄວາມຊັບຊ້ອນຂອງລະຫັດຜ່ານຜູ້ໃຊ້",
 
-        "passwordRegexMin": "最小长度",
-        "passwordRegexMax": "最大长度",
-        "passwordRegexLength": "密码长度",
-        "passwordRule": "密码规则",
+        "passwordRegexMin": "ຄວາມຍາວຕໍ່າສຸດ",
+        "passwordRegexMax": "ຄວາມຍາວສູງສຸດ",
+        "passwordRegexLength": "ຄວາມຍາວລະຫັດຜ່ານ",
+        "passwordRule": "ກົດລະຫັດຜ່ານ",
         "passwordRuleValue": {
-            "useLowercase": "必须包含小写字母",
-            "useNumber": "必须包含数字",
-            "useUppercase": "必须包含大写字母",
-            "useSpecial": "必须包含特殊字符(#?!@$%^&*-)"
+            "useLowercase": "ຕ້ອງມີຕົວພິມນ້ອຍ",
+            "useNumber": "ຕ້ອງມີຕົວເລກ",
+            "useUppercase": "ຕ້ອງມີຕົວພິມໃຫຍ່",
+            "useSpecial": "ຕ້ອງມີຕົວອັກສອນພິເສດ(#?!@$%^&*-)"
         },
         "passwordRuleRegex": {
             "useLowercase": "(?=.*[a-z])",
@@ -327,28 +327,28 @@ o2.xApplication.systemconfig.LP = {
             "useUppercase": "(?=.*[A-Z])",
             "useSpecial": "(?=.*?[#?!@$%^&*-])"
         },
-        "savePasswordRule": "保存密码规则设置",
-        "passwordLengthText": "{n}位，{text}",
+        "savePasswordRule": "ບັນທຶກການຕັ້ງຄ່າລະຫັດ",
+        "passwordLengthText": "{n}ຕົວ，{text}",
 
-        "passwordRsa": "密码加密传输",
-        "passwordRsaInfo": "系统默认使用明文传输，您可以启用此选项，以启用密码的加密传输。(修改后需要重启服务器)",
+        "passwordRsa": "ການສົ່ງຜ່ານເຂົ້າລະຫັດລັບ",
+        "passwordRsaInfo": "ລະບົບໃຊ້ການສົ່ງຂໍ້ຄວາມທີ່ຊັດເຈນ，ທ່ານສາມາດເປີດໃຊ້ຕົວເລືອກນີ້，ເພື່ອເປີດໃຊ້ການສົ່ງລະຫັດຜ່ານທີ່ຖືກເຂົ້າລະຫັດ。(ຕ້ອງປິດເປີດເຄື່ອງໃໝ່ຫຼັງຈາກດັດແກ້)",
 
 
-        "adminPasswordInfo": "您可以在此处修改超级管理员xadmin的密码。(修改后需要重启服务器)",
-        "modifyAdminPassword": "修改管理员密码",
+        "adminPasswordInfo": "ທ່ານສາມາດປ່ຽນລະຫັດຜ່ານຂອງຜູ້ດູແລລະດັບສູງxadmin ທີ່ນີ້。(ຕ້ອງປິດເປີດເຄື່ອງໃໝ່ຫຼັງຈາກດັດແກ້)",
+        "modifyAdminPassword": "ດັດແກ້ລະຫັດຜູ້ຈັດການ",
 
-        "oldPassword": "原密码",
-        "newPassword": "新密码",
-        "confirmPassword": "确认密码",
+        "oldPassword": "ລະຫັດເກົ່າ",
+        "newPassword": "ລະຫັດໃໝ່",
+        "confirmPassword": "ຄ່າລະຫັດເລີ່ມຕົ້ນ",
 
-        "ternaryPassword": "三员管理员密码",
-        "ternaryPasswordInfo": "如果您启用了三员管理，系统管理员可以在此处修改系统管理员（systemManager）、安全管理员（securityManager）和安全审计员（auditManager）的密码。",
-        "modifySystemManagerPassword": "修改系统管理员密码",
-        "modifySecurityManagerPassword": "修改安全管理员密码",
-        "modifyAuditManagerPassword": "修改安全审计员密码",
+        "ternaryPassword": "ລະຫັດຂອງສາມຜູ້ດູແລ",
+        "ternaryPasswordInfo": "ຖ້າເປີດໃຊ້ງານສາມຜູ້ດແລ，ຜູ້ດູລະບົບສາມາດແກ້ໄຂລະຫັດຜ່ານຜູ້ດູແລລະບົບໄດ້ທີ່ນີ້（systemManager）、ຜູ້ຮັກສາຄວາມປອດໄພ（securityManager）ແລະຜູ້ກວດສອບຄວາມປອດໄພ（auditManager）。",
+        "modifySystemManagerPassword": "ດັດແກ້ລະຫັດຜູ້ດູແລ",
+        "modifySecurityManagerPassword": "ດັດແກ້ລະຫັດຜູ້ຮັກສາຄວາມປອດໄພ",
+        "modifyAuditManagerPassword": "ດັດແກ້ລະຫັດຜູ້ກວດສອບປອດໄພ",
 
-        "passwordDisaccord": "您输入的新密码与确认密码不一致",
-        "passwordEmpty": "请输入原密码、新密码和确认密码",
+        "passwordDisaccord": "ລະຫັດຜ່ານໃໝ່ທີ່ທ່ານລະບຸນັ້ນບໍ່ສອດຄ່ອງກັບລະຫັດຜ່ານທີ່ຢືນຢັນແລ້ວ",
+        "passwordEmpty": "ກະລຸນາປ້ອນລະຫັດຜ່ານເດີມ、新密码和确认密码",
 
         "tokenEncryptType": "密码加密方式",
         "tokenEncryptTypeInfo": "O2OA支持以下几种密码和Token加密方式，可以根据需要选择。更多信息请查看：<a href='https://www.o2oa.net/search.html?q=%E5%9B%BD%E5%AF%86' target='_blank'>国密</a>",
