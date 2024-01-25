@@ -348,14 +348,14 @@ o2.xApplication.systemconfig.LP = {
         "modifyAuditManagerPassword": "ດັດແກ້ລະຫັດຜູ້ກວດສອບປອດໄພ",
 
         "passwordDisaccord": "ລະຫັດຜ່ານໃໝ່ທີ່ທ່ານລະບຸນັ້ນບໍ່ສອດຄ່ອງກັບລະຫັດຜ່ານທີ່ຢືນຢັນແລ້ວ",
-        "passwordEmpty": "ກະລຸນາປ້ອນລະຫັດຜ່ານເດີມ、新密码和确认密码",
+        "passwordEmpty": "ກະລຸນາປ້ອນລະຫັດຜ່ານເດີມ、ລະຫັດໃໝ່ ແລະຢືນຢັນລະຫັດ",
 
-        "tokenEncryptType": "密码加密方式",
-        "tokenEncryptTypeInfo": "O2OA支持以下几种密码和Token加密方式，可以根据需要选择。更多信息请查看：<a href='https://www.o2oa.net/search.html?q=%E5%9B%BD%E5%AF%86' target='_blank'>国密</a>",
-        "tokenEncryptTypeLabel": "加密方式",
+        "tokenEncryptType": "ວິທີການເຂົ້າລະຫັດ",
+        "tokenEncryptTypeInfo": "O2OA ຮອງຮັບລະຫັດຜ່ານ ແລະວິທີການເຂົ້າລະຫັດ token ຕໍ່ໄປນີ້:，ສາມາດເລືອກຂໍ້ມູນຕາມຄວາມຕ້ອງການ。ສໍາລັບຂໍ້ມູນເພີ່ມເຕີມ, ກະລຸນາເບິ່ງ：<a href='https://www.o2oa.net/search.html?q=%E5%9B%BD%E5%AF%86' target='_blank'>ຄວາມລັບ</a>",
+        "tokenEncryptTypeLabel": "ເຂົ້າລະຫັດ",
         "encryptTypeOptions": {
-            "default": "默认",
-            "sm4": "国家商用密码算法"
+            "default": "default",
+            "sm4": "SM4"
         },
         "tokenEncryptTypeInfo3": "<div style='color: red'>注意：点击“确定修改密码加密方式”后，此设置立即生效。<ul style='line-height: 30px'><li>这会导致：1、所有用户的登录状态失效；2、由于加密方式改变，所有已有用户将无法登录系统</li>" +
             "<li>您必须执行以下步骤，才能正常使用系统：<br>使用xadmin账号重新登录系统，并通过任何方式重置所有用户密码</li></ul></div>",
@@ -363,13 +363,13 @@ o2.xApplication.systemconfig.LP = {
         "changeTokenEncryptTypeInfo": "您确定要修改密码加密方式码？"
     },
     "_loginConfig": {
-        "baseConfig": "基本配置",
-        "moreConfig": "更多配置",
-        "ldapConfig": "Ldap认证配置",
-        "captchaLogin": "启用图片验证码登录",
-        "codeLogin": "启用短信验证码登录",
-        "bindLogin": "启用扫描二维码登录",
-        "faceLogin": "启用人脸识别登录",
+        "baseConfig": "ຕັ້ງຄ່າເບື້ອງຕົ້ນ",
+        "moreConfig": "ຕັ້ງຄ່າເພີ່ມຕື່ມ",
+        "ldapConfig": "ຕັ້ງຄ່າການຢືນຢັນ Ldap",
+        "captchaLogin": "ເປີດໃຊ້ການເຂົ້າສູ່ລະບົບລະຫັດຢືນຢັນຮູບພາບ",
+        "codeLogin": "ເປີດໃຊ້ການເຂົ້າສູ່ລະບົບລະຫັດຢືນຢັນ SMS",
+        "bindLogin": "ເປີດໃຊ້ການສະແກນລະຫັດ QR ເພື່ອເຂົ້າສູ່ລະບົບ",
+        "faceLogin": "ເປີດໃຊ້ງານການເຂົ້າສູ່ລະບົບການຮັບຮູ້ໃບໜ້າ",
         "captchaLoginInfo": "启用后登陆时必须正确输入图片验证码",
         "codeLoginInfo": "启用后允许通过短信验证码登录",
         "bindLoginInfo": "启用后允许扫描二维码登录",
