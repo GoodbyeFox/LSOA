@@ -20,18 +20,18 @@ MWF.xApplication.AppMarketV2.Application.LP = {
     "confirmupdateContent":"ເຈົ້າແນ່ໃຈວ່າຈະອັບເດດApplicationນີ້？ຖ້າເຈົ້າຕ້ອງການປ່ຽນ Applicationນີ້ ຫຼັງຈາກຕິດຕັ້ງApplicationນີ້ ，ຫຼັງຈາກອັບເດດແລ້ວຈະໄປແທນທີ່ບ່ອນນັ້ນ",
     "bbsname":"Community",
     "bbslink":"http://forum.o2oa.net/x_desktop/forum.html?app=ForumSection&id=b1895d5a-7ef2-4d74-b2d1-a7ae10daaa28",
-    "bbstip":"ຖ້າເຈົ້າມີຄຳຖາມ ຫຼື ideas，ກະລຸນາມາທີ່Communityຂອງພວກເຮົາເພື່ອສື່ສານ！",
+    "bbstip":"ຖ້າເຈົ້າມີຄຳຖາມ ຫຼື ideas，ກະລຸນາມາທີ່ການສື່ສານເພື່ອຕິດຕໍ່ກັບພວກເຮົາ！",
     "commentpath":"https://forum.o2oa.net:40020",
     "bbsurl":"http://forum.o2oa.net/x_desktop/forum.html?app=ForumSection&id=b1895d5a-7ef2-4d74-b2d1-a7ae10daaa28",
     "bbsNotice":"ຖ້າຕ້ອງການສະແດງຄວາມຄິດເຫັນສາມາດຄິກໄດ້ທີ່o2ຄວາມຄິດເຫັນ",
 
-    "commentCountText":"ທັງໝົດ{n}Ratings",
+    "commentCountText":"ການປະເມີນທັງໝົດ{n}",
     "category" : "ໝວດໝູ່",
     "screenshot":"ຖ່າຍຮູບໜ້າຈໍ",
     "commented" : "ເຈົ້າໄດ້ກວດສອບapplicationນີ້ແລ້ວ！",
     "notInstall": "ເຈົ້າບໍ່ມີການຕິດຕັ້ງScoring ，ເຈົ້າບໍ່ສາມາດສະແດງຄວາມຄິດເຫັນຢູ່ເທິ່ງນີ້ໄດ້！",
     "iNeedComment": "ຂ້ອຍຕ້ອງການຄຳເຫັນ",
-    "score": "Scoring：",
-    "comment": "Comment：",
+    "score": "ຄະແນນ：",
+    "comment": "ຄຳເຫັນ：",
     "commentNotice" : "ກະລຸນາສະແດງຄວາມຄິດເຫັນ, ຫຼັງຈາກສະແດງຄວາມຄິດເຫັນແລ້ວກະລຸນາສົ່ງ"
 };
