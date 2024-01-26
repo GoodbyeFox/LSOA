@@ -26,7 +26,7 @@ MWF.xApplication.appstore.LP = {
     "notAdmin": "ຂໍອະໄພ, ມີພຽງແຕ່ຜູ້ບໍລິຫານເທົ່ານັ້ນທີ່ສາມາດເຂົ້າເຖິງຕະຫຼາດແອັບຯໄດ້, ທ່ານມີສິດອະນຸຍາດບໍ່ພຽງພໍ!",
 
     "offlineInstall": "ຕິດຕັ້ງອອບໄລນ໌",
-    "offlineInstallInfo":"ທ່ານສາມາດຄລິກທີ່ນີ້ເພື່ອຕິດຕັ້ງຊຸດແອັບພລິເຄຊັນອອຟໄລ",
+    "offlineInstallInfo":"ທ່ານສາມາດຄລິກທີ່ນີ້ເພື່ອຕິດຕັ້ງຊຸດແອັບພິເຄຊັ້ນອອບໄລ",
 
     "configDocUrl": "https://www.o2oa.net/cms/serverdeployment/112.html"
 }

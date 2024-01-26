@@ -11,7 +11,7 @@ MWF.xApplication.appstore.application.LP = {
 
     "communityUrl": "https://www.o2oa.net/forum/forum-42-1.html",
     "community": "Lotus Root Flour Community",
-    "communityInfo": "ຖ້າຫາກທ່ານມີຄໍາຖາມຫຼືຄວາມຄິດເຫັນໃດໆ, ກະລຸນາມາຫາຊຸມຊົນຝຸ່ນ lotus ຂອງພວກເຮົາເພື່ອສື່ສານ!",
+    "communityInfo": "ຖ້າຫາກທ່ານມີຄໍາຖາມຫຼືຄວາມຄິດເຫັນໃດໆ, ກະລຸນາຕິດຕໍ່ສື່ສານກັບພວກເຮົາ!",
 
     "o2Version": "O2OA ເວີຊັ່ນ ສະໜັບສະໜູນ:",
 
