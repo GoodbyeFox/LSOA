@@ -34,7 +34,7 @@ MWF.xApplication.cms.Module.LP = {
 	"batchRemoveConfirm" : "ຢືນຢັນຍ້າຍອອກ",
 
 	"processList": "ຂະບວນການ",
-	"activityNameList": "activity",
+	"activityNameList": "ເຄື່ອນໄຫວ",
 	"creatorCompanyList": "ສ້າງບໍລິສັດ",
 	"creatorDepartmentList": "ສ້າງພະແນກ",
 	"startTimeMonthList": "ສ້າງເວລາ",
