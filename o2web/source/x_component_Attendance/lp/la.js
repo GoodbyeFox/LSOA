@@ -58,7 +58,7 @@ MWF.xApplication.Attendance.LP = {
 		"seriousLateTimes": "ຊ້າເກີນກຳນົດ",
 		"outsideDutyTimes": "ນອກພື້ນທີ່",
 		"absenteeismTimes": "ຂາດວຽກ",
-		"notSignedCount": "ບໍ່ໄດ້ກົດບັດ",
+		"notSignedCount": "ບໍ່ໄດ້ສະແກນບັດ",
 	},
 
 	"absent" : "ຂາດ",
@@ -127,7 +127,7 @@ MWF.xApplication.Attendance.LP = {
 		"pieChart" : "ສະຫຼຸບການເຂົ້າວຽກ",
 		"lineChart" : "ແນວໂນ້ມການເຂົ້າອອກວຽກ",
 		"absent":"ຂໍຂາດ",
-		"offDutyTime":"ການເຂົ້າວຽກ, ເວລາກົດບັດ:",
+		"offDutyTime":"ການເຂົ້າວຽກ, ເວລາສະແກນບັດ:",
 		"levelAsked":"ຂໍລາພັກຫຼືອອກວຽກນອກ"
 	},
 
@@ -226,8 +226,8 @@ MWF.xApplication.Attendance.LP = {
 	"apealForm": "ຟອມຄຳຮ້ອງ",
 	"employeeName": "ຊື່ພະນັກງານ",
 	"recordDate": "ວັນທີເຂົ້າວຽກ",
-	"onDutyTime": "ເວລາກົດບັດເຂົ້າວຽກ",
-	"offDutyTime": "ເວລາກົດບັດເລີກວຽກ",
+	"onDutyTime": "ເວລາສະແກນບັດເຂົ້າວຽກ",
+	"offDutyTime": "ເວລາສະແກນບັດເລີກວຽກ",
 	"attendanceStatus": "ສະຖານະເຂົ້າວຽກ",
 	"appealStatus": "ສະຖານະອະນຸມັດ",
 	"appealStatusSelectText": ["ກໍາລັງດໍາເນີນ","ບໍ່ຜ່ານ","ຜ່ານ"],
@@ -250,12 +250,12 @@ MWF.xApplication.Attendance.LP = {
 	"processSuccess": "ການປະມວນຜົນສຳເລັດ",
 	"noDepartment": "ບໍ່ພົບພະແນກຂອງເຈົ້າ, ກະລຸນາຕິດຕໍ່ຜູ້ບໍລິຫານ!",
 	"signinType": "ປະເພດການເຂົ້າສູ່ລະບົບ",
-	"signinTypeSelectText": ["", "ກົດບັດເຮັດວຽກ", "ກົດບັດເລີກວຽກ"],
-	"signinQywxTypeSelectText": ["", "ກົດບັດເຂົ້າວຽກ”, "ກົດບັດເລີກວຽກ"", "ກົດບັດອອກວຽກນອກ"],
+	"signinTypeSelectText": ["", "ສະແກນບັດເຮັດວຽກ", "ສະແກນບັດເລີກວຽກ"],
+	"signinQywxTypeSelectText": ["", "ສະແກນບັດເຂົ້າວຽກ”, "ສະແກນບັດເລີກວຽກ"", "ສະແກນບັດອອກວຽກນອກ"],
 	"signinResult": "ຜົນການເຂົ້າວຽກ",
-	"signinResultSelectText": ["", "ປົກກະຕິ", "ອອກກ່ອນໂມງ", "ຊ້າ", "ຊ້າເກີນກຳນົດ", "ຊ້າກາຍເວລາ", "ບໍ່ກົດບັດ"],
-	"signinQywxResultSelectText": ["", "ປົກກະຕິ", "ເວລາຜິດ", "ສະຖານທີຜິດ", "ບໍ່ກົດບັດ" , "wifiລົ້ມ", "ບໍ່ໄດ້ໃຊ້ລະບົບດົນ"],
-	"recordAddress": "ສະຖານທີກົດບັດ",
+	"signinResultSelectText": ["", "ປົກກະຕິ", "ອອກກ່ອນໂມງ", "ຊ້າ", "ຊ້າເກີນກຳນົດ", "ຊ້າກາຍເວລາ", "ບໍ່ສະແກນບັດ"],
+	"signinQywxResultSelectText": ["", "ປົກກະຕິ", "ເວລາຜິດ", "ສະຖານທີຜິດ", "ບໍ່ສະແກນບັດ" , "wifiລົ້ມ", "ບໍ່ໄດ້ໃຊ້ລະບົບດົນ"],
+	"recordAddress": "ສະຖານທີສະແກນບັດ",
 	"optMachineType": "ລະບົບຂໍ້ຄວາມ",
 	"workTime": "ເວລາເຂົ້າວຽກ,
 
@@ -310,7 +310,7 @@ MWF.xApplication.Attendance.LP = {
 		"ລຳດັບ", "IDພະນັກງານ", "ຊື່", "ວັນທີ","ເວລາເຂົ້າວຽກຕອນເຊົ້າ","ເວລາເລີກວຽກຕອນສວຍ","ເວລາເຂົ້າວຽກສວຍ","ເວລາເລີກວຽກແລງ","ຜົນກວດສອບ","ອະທິບາຍ"
 	],
 	"selectExportMonth":"ເລືອກນຳອອກຂໍ້ມູນລາຍເດືອນ",
-	"exportSourceData": "ນຳອອກຂໍ້ມູນກົດບັດ",
+	"exportSourceData": "ນຳອອກຂໍ້ມູນສະແກນບັດ",
 	"true": "ຖືກ",
 	"false": "ຜິດ",
 	"checkDataTitle": "ກຳລັງກວດສອບຂໍ້ມູນ",
@@ -377,7 +377,7 @@ MWF.xApplication.Attendance.LP = {
 
 	"middayRestStartTime":"ເວລາເລີ່ມພັກທ່ຽງ",
 	"middayRestEndTime":"ເວລາສິ້ນສຸດພັກທ່ຽງ",
-	"isCheckInOutOfRange": "ຂອບເຂດກົດບັດນອກ",
+	"isCheckInOutOfRange": "ຂອບເຂດສະແກນບັດນອກ",
 	"yes": "ແມ່ນ",
 	"no": "ບໍ່",
 
