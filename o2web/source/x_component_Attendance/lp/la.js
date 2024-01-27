@@ -233,7 +233,7 @@ MWF.xApplication.Attendance.LP = {
 	"appealStatusSelectText": ["ກໍາລັງດໍາເນີນ","ບໍ່ຜ່ານ","ຜ່ານ"],
 	"address": "ສະຖານທີ່",
 	"leaveType": "ປະເພດລາພັກ",
-	"leaveTypeSelectText": ["","​ພັກ​ປະ​ຈໍາ​ປີ​","ລາປ່ວຍ","ສະຫວັດດີການ","ລາວຽກສ່ວນຕົວ(ຕັດເງິນ)","ອື່ນໆ"],
+	"leaveTypeSelectText": ["","ພັກປະຈໍາປີ","ລາປ່ວຍ","ສະຫວັດດີການ","ລາວຽກສ່ວນຕົວ(ຕັດເງິນ)","ອື່ນໆ"],
 	"startTime": "ເລີ່ມວັນທີ່",
 	"endTime": "ສິ້ນສຸດວັນທີ່",
 	"appealDescriptoin": "ເຫດຜົນ",
