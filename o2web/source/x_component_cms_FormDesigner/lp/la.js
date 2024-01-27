@@ -2,7 +2,7 @@ MWF.xApplication.process = MWF.xApplication.process || {};
 MWF.xApplication.process.FormDesigner = MWF.xApplication.process.FormDesigner || {};
 MWF.xDesktop.requireApp("process.FormDesigner", "lp."+MWF.language, null, false);
 MWF.xApplication.cms.FormDesigner.LP = Object.merge( {}, MWF.xApplication.process.FormDesigner.LP, {
-    "selectApplication" : "选择应用",
+    "selectApplication" : "ເລືອກແອັບ",
     "formType": {
         "empty": "ຟອມວ່າງ",
         "publishEdit": "ແກ້ໄຂຟອມ",
