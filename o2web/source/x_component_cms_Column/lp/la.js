@@ -1,7 +1,7 @@
 MWF.xApplication.cms = MWF.xApplication.cms ||{};
 MWF.xApplication.cms.Column = MWF.xApplication.cms.Column|| {};
 MWF.xApplication.cms.Column.LP = {
-    "title": "ຕັ້ງຄ່າບໍລິຫານເນື້ອໃນ",
+    "title": "ຕັ້ງຄ່າຈັດການເນື້ອໃນ",
     "description" : "ຖັນແລະປະເພດບໍລິຫານ",
     "inverse" : "ກົງກັນຂ້າມ",
     "cate" : "ໝວດໝູ່",
