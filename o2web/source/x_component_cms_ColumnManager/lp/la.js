@@ -1,6 +1,6 @@
 MWF.xApplication.cms.ColumnManager = MWF.xApplication.cms.ColumnManager || {};
 MWF.xApplication.cms.ColumnManager.LP = {
-    "title": "ການຕັ້ງຄ່າຖັນການຈັດການເນື້ອຫາ",
+    "title": "ຕັ້ງຄ່າຖັນການຈັດການເນື້ອຫາ",
     "categoryTitle": "ປະເພດການຈັດການ",
     "description": "ອະທິບາຍ",
     "deleteItems": "ລຶບເນື້ອຫາທີ່ເລືອກ",
@@ -132,12 +132,12 @@ MWF.xApplication.cms.ColumnManager.LP = {
         "searchText": "ກະລຸນາຕື່ມຂໍ້ຄວາມ",
         "selectRelativeForm" : "ເລືອກຟອມທີ່ກ່ຽວຂ້ອງ",
 
-        "noViewNoticeText": "ການອອກແບບອົງປະກອບແບບເກົ່າ，ກະ​ລຸ​ນາ​ໃຊ້ views ຫຼື​ການ​ຕັ້ງ​ຄ່າ​ການ​ສອບ​ຖາມ​ເພື່ອ​ສະ​ແດງ​ຂໍ້​ມູນ。",
+        "noViewNoticeText": "ການອອກແບບອົງປະກອບແບບເກົ່າ，ກະລຸນາໃຊ້ views ຫຼືການຕັ້ງຄ່າການສອບຖາມເພື່ອສະແດງຂໍ້ມູນ。",
         "noViewNoCreateNoticeText": "ໃນປັດຈຸບັນບໍ່ມີລາຍຊື່ຢູ່ໃນຖັນນີ້",
         "loaded": "ໂຫຼດລາຍການສຳເລັດ",
         "deleteFormTitle": "ຢືນຢັນລົບລາຍການ",
         "deleteForm": "ແນ່ໃຈບໍ່ວ່າຕ້ອງການລົບລາຍການປະຈຸບັນນີ້？",
-"selectRelativeFormNoticeText" : "ກະ​ລຸ​ນາ​ເລືອກ​ເອົາ​ຮູບ​ແບບ​ທີ່​ກ່ຽວ​ຂ້ອງ​ກັບ​ການ​ເບິ່ງ​ຈໍາ​ເປັນ​ຕ້ອງ​ໄດ້​ຮັບ​ການ​ວາງ​"
+"selectRelativeFormNoticeText" : "ກະລຸນາເລືອກເອົາຮູບແບບທີ່ກ່ຽວຂ້ອງກັບການເບິ່ງຈໍາເປັນຕ້ອງໄດ້ຮັບການວາງ"
 },
 "dictionary": {
     "create": "ສ້າງຂໍ້ມູນວັດຈະນານຸກົມ",
@@ -256,7 +256,7 @@ MWF.xApplication.cms.ColumnManager.LP = {
     "inputCategoryNotice": "ກະລຸນາປ້ອນຊື່ປະເພດ",
     "noCategoryNotice": "ກະລະນາສ້າງ ຫຼືເລືອກປະເພດ",
     "saveCategoryNotice":"ກະລຸນາບັນທຶກປະເພດກ່ອນ",
-    "dragToDesktopNotice": "ສາມາດລາກໄປທີ່ desktop",
+    "dragToDesktopNotice": "ສາມາດລາກໄປທີ່ພື້ນທີ່ໜ້າຈໍ",
     "asEditForm": "ຕັ້ງເປັນຟອມແກ້ໄຂ",
     "asReadForm": "ຕັ້ງເປັນຟອມອ່ານ",
     "delete": "ລົບ",
@@ -276,9 +276,9 @@ MWF.xApplication.cms.ColumnManager.LP = {
     "documentTypeSelectValue": ["ຂໍ້ຄວາມ","ຂໍ້ມູນ"],
     "documentTypeSelectText": ["ຂໍ້ຄວາມ","ຂໍ້ມູນ"],
     "sendNotifySelectText": ["ແມ່ນ","ບໍ່"],
-    "sendNotifySelectValue": ["true","false"],
+    "sendNotifySelectValue": ["ຖືກ","ຜິດ"],
     "blankToAllNotifySelectText": ["ແມ່ນ","ບໍ່"],
-    "blankToAllNotifySelectValue": ["true","false"],
+    "blankToAllNotifySelectValue": ["ຖືກ","ຜິດ"],
     "infor": "ຂໍ້ຄວາມ",
     "data": "ຂໍ້ມູນ",
     "type": "ປະເພດ",
@@ -299,8 +299,8 @@ MWF.xApplication.cms.ColumnManager.LP = {
     "new": "ສ້າງໃໝ່",
     "appProperty": "ເພີ່ມຄຸນະສົມບັດ",
     "changeIcon": "ປ່ຽນ Icon",
-    "ignoreTitleSelectText": ["ຫ້າມຂຽນຫົວຂໍ້ໃນ interfaceໃໝ່","ຈໍາເປັນຂຽນຫົວຂໍ້ໃນ interfaceໃໝ່"],
-    "checkDraftSelectText": ["ຂໍ້ມູນinterfaceສາມາດກວດສອບຮ່າງເອກະສານ","ຂໍ້ມູນinterfaceບໍ່ສາມາດກວດສອບຮ່າງເອກະສານ"],
+    "ignoreTitleSelectText": ["ຫ້າມຂຽນຫົວຂໍ້ໃນການຕອບໂຕ້ໃໝ່","ຈໍາເປັນຂຽນຫົວຂໍ້ໃນ interfaceໃໝ່"],
+    "checkDraftSelectText": ["ຂໍ້ມູນການຕອບໂຕ້ສາມາດກວດສອບຮ່າງເອກະສານ","ຂໍ້ມູນການຕອບໂຕ້ບໍ່ສາມາດກວດສອບຮ່າງເອກະສານ"],
     "showAllDocumentSelectText": ["ສະແດງມຸມມອງເອກະສານທັງໝົດ","ເຊື່ອງມຸມມອງເອກະສນທັງໝົດ"],
     "showDelayDocumentSelectText": ["ສະແດງກຳນົດເວລາເມືອສົ່ງເອກະສານ","ເຊື່ອງການກຳນົດເວລາເມື່ອສົ່ງເອກະສານ"],
     "saveDraftOnClose": ["ບັນທຶກເອກະສານອັດຕະໂນມັດເມື່ອປິດຮ່າງເອກະສານ","ບໍ່ບັນທຶກເອກະສນອັດຕະໂນມັດເມື່ອປິດຮ່າງເອກະສານ"],
