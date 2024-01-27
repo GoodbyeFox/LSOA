@@ -1,5 +1,5 @@
 MWF.xApplication.attendancev2.LP = {
-  title: "ການຄຸ້ມຄອງການເຂົ້າຮ່ວມ",
+  title: "ການຄຸ້ມຄອງການເຂົ້າຮ່ວ",
 
   menu: {
     // 我的
