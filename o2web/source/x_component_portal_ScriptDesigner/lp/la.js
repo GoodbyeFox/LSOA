@@ -42,7 +42,7 @@ MWF.xApplication.portal.ScriptDesigner.LP = {
             "autoSave": "ບັນທຶກອັດຕະໂນມັດ",
             "fontSize": "ຂະຫນາດຕົວອັກສອນ",
             "style": "ແບບ",
-            "scriptEditor": "ຕົວແກ້ໄຂສະຄຣິບ",
+            "scriptEditor": "ຕົວແກ້ໄຂscript",
             "viewAllVersions": "ເບິ່ງສະບັບສະຄຣິບທັງໝົດ"
         }
 };
