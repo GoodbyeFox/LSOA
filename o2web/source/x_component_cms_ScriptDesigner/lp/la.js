@@ -1,16 +1,16 @@
 MWF.xApplication.cms.ScriptDesigner.LP = {
-    "title": "ຕົວແກ້ໄຂສະຄຣິບ",
-    "newScript": "ສະຄຣິບໃໝ່",
-    "scriptLibrary": " ໄລບາຣີເນື້ອໃນ",
-    "property": "ຊັບສິນ",
+    "title": "ຕົວແກ້ໄຂScript",
+    "newScript": "Scriptສະຄຣິບໃໝ່",
+    "scriptLibrary": " Script Library",
+    "property": "ຄຸນສົມບັດ",
     "include": "ລວມ",
-    "id": "ການລະບຸຕົວຕົນ",
+    "id": "ID",
     "name": "ຊື່",
     "alias": "ນາມສະກຸນ",
     "description": "ລາຍລະອຽດ",
 
     "notice": {
-        "save_success": "ສະຄຣິບຖືກບັນທຶກສຳເລັດແລ້ວ!",
+        "save_success": "Script ືກບັນທຶກສຳເລັດແລ້ວ!",
         "deleteDataTitle": "ລົບການຢືນຢັນຂໍ້ມູນ",
         "deleteData": "ທ່ານແນ່ໃຈບໍ່ທີ່ຈະລົບຂໍ້ມູນປັດຈຸບັນ ແລະຂໍ້ມູນຍ່ອຍຂອງມັນອອກ?",
 
@@ -23,6 +23,6 @@ MWF.xApplication.cms.ScriptDesigner.LP = {
         "emptyKey": "ຊື່ໂຄງການບໍ່ສາມາດຫວ່າງເປົ່າໄດ້, ກະລຸນາໃສ່ໃໝ່",
         "numberKey": "ຊື່ລາຍການບໍ່ສາມາດເປັນຕົວເລກໄດ້, ກະລຸນາໃສ່ໃໝ່",
 
-        "inputName": "ກະລຸນາໃສ່ຊື່ສະຄຣິບ"
+        "inputName": "ກະລຸນາໃສ່ຊື່Script"
     }
 };
