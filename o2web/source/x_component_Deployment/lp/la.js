@@ -7,7 +7,7 @@ MWF.xApplication.Deployment.LP = {
 
     "name": "ຊື່",
     "componentTitle": "ຫົວຂໍ້",
-    "path": "component path",
+    "path": "ເສັ້ນທາງ",
     "isVisible": " ສາມາດເບິ່ງເຫັນ ໄດ້ ຫຼື ບໍ່",
     "yes": "ແມ່ນ",
     "no": "ບໍ່",
@@ -24,17 +24,17 @@ MWF.xApplication.Deployment.LP = {
     "phone": "ໂທລະສັບ",
     "mail": "mail",
 
-    "noInputInfor": "ກະລຸນາຕື່ມຂໍ້ມູນໃຫ້ຄົບຖ້ວນ。（ຕ້ອງຂຽນ：component name, component title, component path）",
+    "noInputInfor": "ກະລຸນາຕື່ມຂໍ້ມູນໃຫ້ຄົບຖ້ວນ。（ຕ້ອງຂຽນ：ຊື່, ຫົວຂໍ້, ເສັ້ນທງ）",
     "deploySuccess": "ປະຕິບັດສຳເລັດ",
-    "modifySuccess": "ແກ້ໄຂ້ຂໍ້ມູນ component ສຳເລັດ",
+    "modifySuccess": "ແກ້ໄຂ້ຂໍ້ມູນສຳເລັດ",
 
-    "removeComponentTitle": "ຢືນຢັນຍົກເລີກການຕິດຕັ້ງ component",
-    "removeComponent": "ເຈົ້າແນ່ໃຈ ຫຼື ບໍ ວ່າຕ້ອງການຍົກເລີກການຕິດຕັ້ງ component：{name} ？",
+    "removeComponentTitle": "ຢືນຢັນຍົກເລີກການຕິດຕັ້ງອົງປະກອບ",
+    "removeComponent": "ເຈົ້າແນ່ໃຈ ຫຼື ບໍ ວ່າຕ້ອງການຍົກເລີກການຕິດຕັ້ງອົງປະກອບ：{name} ？",
     "removeComponentOk": "ຍົກເລີກການຕິດຕັ້ງສຳເລັດ",
 
-    "modify": "ແກ້ໄຂຂໍ້ມູນ component",
+    "modify": "ແກ້ໄຂຂໍ້ມູນອົງປະກອບ",
 
-    "deployedComponent" : "ການປະຕິບັດ component ສຳເລັດ",
+    "deployedComponent" : "ການປະຕິບັດອົງປະກອບສຳເລັດ",
     "inputNameAndTitle" : "ກະລຸນາຢືນຢັນ ຊື່ application ແລະ ຫົວຂໍ້ application",
     "uploadZipFile" : "ກະລຸນາອັບໂຫລດເອກະສານເປັນຟາຍ ZIP"
 };
