@@ -9,16 +9,16 @@ MWF.xApplication.BAM.LP = {
     "usedProcessCount": "ໃຊ້ຂະບວນການ",
 
     "taskCount": "ຈຳນວນວຽກທີ່ປະຕິບັດ",
-    "taskCompletedCount": "ຈຳນວນTaskແລ້ວ ",
+    "taskCompletedCount": "ຈຳນວນທີ່ຕ້ອງເຮັດແລ້ວ ",
     "readCount": "ຈຳນວນອ່ານ",
     "readCompletedCount": "ຈຳນວນອ່ານແລ້ວ",
     "workCount": "ຈຳນວນວຽກ",
     "workCompletedCount": "ຈຳນວນວຽກສຳເລັດ",
     "expired": "ໝົດເວລາ",
 
-    "taskElapsedTitle": "ສະເລ່ຍເວລາ Task",
+    "taskElapsedTitle": "ສະເລ່ຍເວລາທີ່ຕ້ອງເຮັດ",
     "workElapsedTitle": "ສະເລ່ຍເວລາWork",
-    "taskElapsedCountTitle": "ເປີເຊັນໝົດເວລາ Task",
+    "taskElapsedCountTitle": "ເປີເຊັນໝົດເວລາທີ່ຕ້ອງເຮັດ",
     "workElapsedCountTitle": "ເປີເຊັນໝໄດເວລາWork ",
 
     "proportion": "ເປີເຊັນ",
@@ -26,8 +26,8 @@ MWF.xApplication.BAM.LP = {
     "count": "ຈຳນວນ",
     "top10": "TOP10",
 
-    "taskRankTypeExpired": "ເວລາສະເລ່ຍ Task",
-    "taskRankTypeExpiredCount": "ຈຳນວນໝົດເວລາ Task",
+    "taskRankTypeExpired": "ເວລາສະເລ່ຍທີ່ຕ້ອງເຮັດ",
+    "taskRankTypeExpiredCount": "ຈຳນວນໝົດເວລາທີ່ຕ້ອງເຮັດ",
     "taskRankTypeCompletedCount": "ຈຳນວນປະມວນຜົນ",
     "taskRankTypeCompletedTimeliness": "Timeliness",
 
@@ -38,8 +38,8 @@ MWF.xApplication.BAM.LP = {
     "application": "Application",
     "process": "ຂະບວນການ",
     "activity": "Activity",
-    "task": "Task",
-    "taskCompleted": "Task ແລ້ວ",
+    "task": "ທີ່ຕ້ອງເຮັດ",
+    "taskCompleted": "ທີ່ຕ້ອງເຮັດສຳເລັດແລ້ວ",
     "work": "ວຽກ",
     "workCompleted": "ວຽກສຳເລັດ",
 
@@ -68,11 +68,11 @@ MWF.xApplication.BAM.LP = {
     "other": "ອື່ນໆ",
 
     "monthly": {
-        "task": "ຈຳນວນTask ",
-        "taskCompleted": "ຈຳນວນ Task ແລ້ວ",
+        "task": "ຈຳນວນທີ່ຕ້ອງເຮັດ",
+        "taskCompleted": "ຈຳນວນທີ່ຕ້ອງເຮັດສຳເລັດແລ້ວ",
         "work": "ຈຳນວນເລີ່ມວຽກ",
         "workCompleted": "ຈຳນວນ ຂະບບວນການແລ້ວ",
-        "taskExpired": "ຈຳນວນໝົດເວລາ Task ",
+        "taskExpired": "ຈຳນວນທີ່ຕ້ອງເຮັດໝົດເວລາ ",
         "workExpired": "ຈຳນວນວຽກໝົດເວລາ",
 
         "sort": "ໝວດໝູ່",
@@ -110,7 +110,7 @@ MWF.xApplication.BAM.LP = {
         "selecteAllCol": "ເລືອກຖັນທັງໝົດ",
         "selecteAllRow": "ເລືອກແຖວທັງໝົດ",
         "sortItems": {
-            "topUnit": "ອົງກອນ TOP",
+            "topUnit": "ອົງກອນສູງສຸດ",
             "unit": "ອົງກອນ",
             "company": "ບໍລິສັດ",
             "department": "ພະແນກ",
