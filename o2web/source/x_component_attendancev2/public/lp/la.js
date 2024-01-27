@@ -1,10 +1,10 @@
 MWF.xApplication.attendancev2.LP = {
-  title: "ການຄຸ້ມຄອງການເຂົ້າຮ່ວ",
+  title: "ລະບົບເຂົ້າວຽກ",
 
   menu: {
     // 我的
-    myAttendance: "ການເຂົ້າຮ່ວມສ່ວນບຸກຄົນ",
-    myStatistic: "ສະຖິຕິສ່ວນບຸກຄົນ",
+    myAttendance: "ການເຂົ້າວຽກຂອງຂ້ອຍ",
+    myStatistic: "ສະຖິຕຂອງຂ້ອຍ",
     myAppealList: "ຄວາມຜິດປົກກະຕິຂອງການເຂົ້າຮ່ວມສ່ວນບຸກຄົນ",
     // 统计考勤
     statistic: "ສະຖິຕິການເຂົ້າຮ່ວມ",

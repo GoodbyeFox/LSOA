@@ -58,7 +58,7 @@ MWF.xApplication.Attendance.LP = {
 		"seriousLateTimes": "ຊ້າເກີນກຳນົດ",
 		"outsideDutyTimes": "ນອກພື້ນທີ່",
 		"absenteeismTimes": "ຂາດວຽກ",
-		"notSignedCount": "ບັດເສຍ",
+		"notSignedCount": "ບໍ່ໄດ້ກົດບັດ",
 	},
 
 	"absent" : "ຂາດ",
