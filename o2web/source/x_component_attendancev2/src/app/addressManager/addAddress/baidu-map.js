@@ -80,6 +80,9 @@ export default content({
     console.debug("开始定位！");
     const geolocation = new BMap.Geolocation();
     var self = this;
+    //默认中心点
+    var defaultPoint = new BMap.Point(102.57184,17.969951);
+    self.createMap(defaultPoint);
     geolocation.getCurrentPosition(
       function (r) {
         console.debug("定位返回", r);
@@ -88,8 +91,6 @@ export default content({
           self.createMap(r.point);
         } else {
           console.error("定位失败！！！！！！！！！！");
-          const point = new BMap.Point(120.135431, 30.27412);
-          self.createMap(point);
         }
       },
       {

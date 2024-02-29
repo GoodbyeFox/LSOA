@@ -48,7 +48,8 @@ MWF.xApplication.Profile.LP={
 		"en": "English",
 		"es": "español",
 		"ko": "한국인",
-		"zh-HK": "繁體中文"
+		"zh-HK": "繁體中文",
+		"la": "ພາສາລາວ"
 	},
 	"passwordRule": "Password rules",
 	"oldPassword": "Old password",
